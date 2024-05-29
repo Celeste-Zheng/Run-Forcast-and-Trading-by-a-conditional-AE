@@ -1,1 +1,2 @@
 # Run-Forcast-and-Trading-by-a-conditional-AE
+Collected and cleansed data for 4,000+ U.S. stocks spanning 1990 to 2022 using yfinance. Calculated asset attributes and performed factor engineering, resulting in 16 computed most relevant factors. Trained a Conditional Autoencoder Architecture, optimizing parameters with cross-validation. Conducted performance analysis of stock factors using alphalens, creating full tear sheets that included risk profiles, and drawdown analysis.
